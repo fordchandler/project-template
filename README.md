@@ -1,5 +1,5 @@
 # Project Name Here
-Short description of project. Replace this and the project section below with a 1-3 sentence description of your project. 
+Short description of project. Replace this and he project section below with a 1-3 sentence description of your project. 
 
 Project Notes:
 
